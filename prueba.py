@@ -3,3 +3,4 @@ nueve = 9
 crear = "crear"
 nose = 10
 agregar = 10 
+anaiadiendo = 0
